@@ -1,6 +1,6 @@
 ﻿ <h1 align="center">Projeto Rossmann - Previsões de vendas </h1>
 
- ![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/imagens/rossman_view.JPG)
+ ![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/Images/rossman_view.JPG)
 
  </p>
 
@@ -79,20 +79,20 @@ As premissas do negócio são realizadas para melhorar a qualidade das análises
 ### **H7.** Lojas deveriam vender mais ao longo dos anos.
 **FALSA** Lojas vendem menos ao longo dos anos.
 
-![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/imagens/H7_insight.PNG)
+![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/Images/H7_insight.png)
 
 --- 
 ### **H8.** Lojas deveriam vender mais no segundo semestre do ano.
 **FALSA** Lojas vendem menos no segundo semestre do ano.
 
-![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/imagens/H8_insight.PNG)
+![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/Images/H8_insight.PNG)
 
 ---
 
 ### **H11.** Lojas deveriam vender menos durante os feriados escolares.
 **VERDADEIRA** Lojas vendem menos durante os feriados escolares.
 
-![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/imagens/H11_insight.PNG)
+![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/Images/H11_insight.PNG)
 
 
 
@@ -128,7 +128,7 @@ H11 Lojas deveriam vender menos durante os feriados escolares. -         Verdade
 
 ### 6.1.1 Os insights foram gerados através do seguinte mapa mental de hipóteses:
 
-![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/imagens/daily_store_sales.PNG)
+![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/Images/daily_store_sales.PNG)
 
 
 # 7. Modelos de Machine Learning e seus resultados
@@ -176,7 +176,7 @@ Definição e Interpretação das Métricas
 
 ## 7.1 Performance do Algoritmo
 
-![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/imagens/performance_algoritmo.PNG)
+![alt_text](https://github.com/GuilhermedeAvila/Rossman_Predict/blob/main/Images/performance_algoritmo.PNG)
 
 # 8. Conclusões
 * <p align="justify"> O modelo utilizado forneceu boas previsões de vendas para cada lojas nas próximas seis semanas, o que atendeu a exigência do CEO. Agora é possível  determinar a melhor alocação de recursos para cada renovação de loja. .</p>
