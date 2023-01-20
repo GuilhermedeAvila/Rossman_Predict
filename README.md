@@ -188,12 +188,12 @@ Definição e Interpretação das Métricas
 
 ---
 
-## 10. Agradecimentos
+# 10. Agradecimentos
 Projeto desenvolvido ao decorrer  do curso *Data Scientist em Produção* - [Comunidade DS](https://comunidadeds.com/).
 
 Gostaria de agradecer ao professor e cientista de dados [Meigarom Lopes](https://www.linkedin.com/in/meigarom/) pelos ensinamentos!
 
-## 11. Contato
+# 11. Contato
 Projeto criado por [Guilherme de Ávila.](https://www.linkedin.com/in/guilherme-de-%C3%A1vila-rodrigues-orlando027/)
 
 [Portfolio de Projetos]()
