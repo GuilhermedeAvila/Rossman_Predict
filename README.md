@@ -98,7 +98,7 @@ As premissas do negócio são realizadas para melhorar a qualidade das análises
 
 ### 6.1 Todos os insights
 
-Hipoteses  -  Conclusao  - Relevância
+Hipoteses  -  Conclusão  - Relevância
 
 H1 Lojas com maior sortimentos deveriam vender mais -         Falsa   -   Baixa
 
@@ -110,17 +110,13 @@ H4 Lojas com promoções ativas por mais tempo deveriam vender mais. -         F
 
 H5 Lojas com mais promoções consecutivas deveriam vender mais. -         Falsa   -  Baixa
 
-H6 Lojas abertas durante o feriado de Natal deveriam vender mais.
- -         Falsa   -  Média
+H6 Lojas abertas durante o feriado de Natal deveriam vender mais. -         Falsa   -  Média
 
-H7 Lojas deveriam vender mais ao longo dos anos.
- -         Falsa   -    Alta
+H7 Lojas deveriam vender mais ao longo dos anos. -         Falsa   -    Alta
 
-H8 Lojas deveriam vender mais no segundo semestre do ano.
- -         Falsa    -   Alta
+H8 Lojas deveriam vender mais no segundo semestre do ano. -         Falsa    -   Alta
 
-H9 Lojas deveriam vender mais depois do dia 10 de cada mês.
- -         Verdadeira  - Alta
+H9 Lojas deveriam vender mais depois do dia 10 de cada mês. -         Verdadeira  - Alta
 
 H10 Lojas deveriam vender menos aos finais de semana. -         Verdadeira  Alta
 
@@ -185,7 +181,6 @@ Definição e Interpretação das Métricas
 
 # 9. Próximos passos
 * <p align="justify"> Realizar uma nova aplicação do ciclo CRISP, com intuito de aumentar as chances de diminuir a margem de erro das predições.</p>
-
 
 * <p align="justify"> Testar outros algoritmos de regressão para prever as vendas de cada loja e aplicar o "ajuste fino".</p> 
 
