@@ -118,9 +118,9 @@ H8 Lojas deveriam vender mais no segundo semestre do ano. -         Falsa    -  
 
 H9 Lojas deveriam vender mais depois do dia 10 de cada mês. -         Verdadeira  - Alta
 
-H10 Lojas deveriam vender menos aos finais de semana. -         Verdadeira  Alta
+H10 Lojas deveriam vender menos aos finais de semana. -         Verdadeira  -  Alta
 
-H11 Lojas deveriam vender menos durante os feriados escolares. -         Verdadeira  Baixa
+H11 Lojas deveriam vender menos durante os feriados escolares. -         Verdadeira  -  Baixa
 
 ### 6.1.1 Os insights foram gerados através do seguinte mapa mental de hipóteses:
 
